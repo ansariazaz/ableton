@@ -309,6 +309,7 @@ body {
 .newimg {
     width: 38vw;
     height: auto;
+    object-fit: cover;
 }
 
 .img-text {
